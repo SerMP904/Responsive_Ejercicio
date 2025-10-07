@@ -1,0 +1,11 @@
+header{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: aqua;
+    color: black;
+}
+
+.foto{
+    max-width: 300px;
+    max-height: 200px;
+}
